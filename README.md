@@ -45,7 +45,7 @@ Nothing of value
 Master's degree
 ### Sem1
 - **GPU Programming**
-  - [Project]()
+  - [Project](https://github.com/gzvvyx/gpu_programming)
 - **Programming in Rust**
   - [Project](https://github.com/stefanpeknik/quadropong)
 ### Sem2
