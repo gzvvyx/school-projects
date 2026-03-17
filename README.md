@@ -50,18 +50,17 @@ Master's degree
   - [Project](https://github.com/stefanpeknik/quadropong)
 ### Sem2
 - **PA253 Distributed Systems and Middleware**
+  - [Homeworks](https://github.com/gzvvyx/pa053-hw)
 - **PV003 Relational Database System Architecture**
-  - [Project]()
-- **PV056 Machine Learning and Data Mining**
-  - [Project]()
+  - [Project](https://github.com/gzvvyx/pv003-project)
 - **PV276 Secure coding principles and practices**
-  - [Project]()
+  - [Project](https://github.com/gzvvyx/pv286-project)
 ### Sem3
 - **PV179 System Development in C#/.NET**
-  - [Project]()
+  - [Project](https://github.com/gzvvyx/pv179-project)
 - **PV198 Onechip Controllers**
-  - [Project]()
+  - [Project](https://github.com/gzvvyx/pv198)
 - **PV247 Modern Development of User Interfaces**
   - [Project](https://github.com/JosefKuchar/pv247-project)
 - **PV293 Software Architecture**
-  - [Project]()
+  - [Project](https://github.com/gzvvyx/pv293-project)
